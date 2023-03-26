@@ -3,6 +3,6 @@
 
 
 
-<h1 dir="rtl" align="center">
+<h2 dir="rtl" align="center">
 <strong>Hi there 👋 Im Alireza</strong>
-</h1>
+</h2>
