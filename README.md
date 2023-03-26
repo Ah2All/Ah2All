@@ -1,6 +1,8 @@
 
 ![Alt text](src/main.png)
 
-### Hi there 👋
 
 
+<h3 dir="rtl" align="center">
+### Hi there 👋 Im Alireza
+</h3>
