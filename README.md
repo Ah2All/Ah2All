@@ -26,3 +26,4 @@ I am currently working as a senior web penetration tester
 - 🌀 Bash & Python Scripting
 
 
+### 🔰 My Social Media :
