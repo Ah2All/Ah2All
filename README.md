@@ -34,3 +34,11 @@ I am currently working as a senior web penetration tester
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 </br>
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
