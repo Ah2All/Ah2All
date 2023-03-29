@@ -35,7 +35,7 @@ I am currently working as a senior web penetration tester
 
 </br>
 
-| Project Name | Project link |
-| ----------- | ----------- |
-| Header | Title |
+| Project Name | Project link | Stars |
+| ----------- | ----------- | ----------- |
+| Header | Title |**![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/wp-admin-html-template?style=social)** |
 | Paragraph | Text |
