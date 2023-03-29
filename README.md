@@ -35,7 +35,8 @@ I am currently working as a senior web penetration tester
 
 </br>
 
+
+### ⚙️ My projects  :
 | Project Name | Project link | Stars |
 | ----------- | ----------- | ----------- |
-| Header | Title |**![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/wp-admin-html-template?style=social)** |
-| Paragraph | Text |
+| An introduction to the Python programming language | [Link](https://github.com/graymicro/introduction-to-the-Python-programming-language) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
