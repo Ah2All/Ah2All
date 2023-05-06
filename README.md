@@ -34,9 +34,10 @@ I am currently working as a senior web penetration tester
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 </br>
-
+Information Gathering Write-up
 
 ### ⚙️ My projects  :
 | Project Name | Project link | Stars |
 | ----------- | ----------- | ----------- |
 | An introduction to the Python programming language | [Link](https://github.com/graymicro/introduction-to-the-Python-programming-language) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
+|Information Gathering Write-up| [Link](https://github.com/graymicro/introduction-to-the-Python-programming-language) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
