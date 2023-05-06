@@ -40,4 +40,4 @@ Information Gathering Write-up
 | Project Name | Project link | Stars |
 | ----------- | ----------- | ----------- |
 | An introduction to the Python programming language | [Link](https://github.com/graymicro/introduction-to-the-Python-programming-language) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
-|Information Gathering Write-up| [Link](https://github.com/graymicro/introduction-to-the-Python-programming-language) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
+|Information Gathering Write-up| [Link](https://github.com/graymicro/Information-Gathering-Write-up) |**![GitHub Repo stars](https://img.shields.io/github/stars/graymicro/introduction-to-the-Python-programming-language?style=social)** |
