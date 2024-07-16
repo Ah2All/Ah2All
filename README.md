@@ -1,17 +1,17 @@
 
 <div align="center">
-  <img src="src/1.jpg" alt="Alt text" style="width: 90%;" />
+  <img src="src/1.jpg" alt="Alt text" style="width: 95%;" />
 </div>
 
 
 
 
 <h2 dir="rtl" align="center">
-<strong>Hi there 👋 Im Alireza</strong>
+<strong>Wellcome To 🚬 My World </strong>
 </h2>
 
 
-### 💢 About Me :
+## About Me :
 > I am Alireza, passionate about the world of zeros and ones. I have always strived to do my best in everything I undertake and create value in every task I perform.
 > As a back-end developer and Penetration Tester with over 4 years of experience, I am constantly seeking to learn and embrace new experiences. This passion for learning and new challenges has driven me to face various challenges, aiding in my personal and professional growth.
 
@@ -22,7 +22,7 @@
 
 </br>
 
-### 🔐 My Skills :
+### My Skills :
 
 - 🌀 Wordpress Back-end Developer (PHP / Theme Developer)
 - 🌀 Python programmer and Django Back-end Developer
