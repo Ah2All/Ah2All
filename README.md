@@ -28,10 +28,9 @@
 </br>
 
 ### 🔰 My Social Media :
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/TheMicr0_?s=09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/Ah2All)
 [![Linkedin f](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/alireza-allahyarian-658658258/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://microhex.info/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+
 
 </br>
 Information Gathering Write-up
