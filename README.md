@@ -1,5 +1,7 @@
 
-![Alt text](src/1.jpg)
+<div style="text-align: center;">
+  <img src="src/1.jpg" alt="Alt text" />
+</div>
 
 
 
