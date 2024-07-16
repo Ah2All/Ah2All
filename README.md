@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="src/1.jpg" alt="Alt text" style="width: 100%;" />
+  <img src="src/1.jpg" alt="Alt text" style="width: 80%;" />
 </div>
 
 
