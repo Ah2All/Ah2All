@@ -25,7 +25,7 @@
 ### My Skills :
 
 - 🌀 Wordpress Back-end Developer (PHP / Theme Developer)
-- 🌀 Python programmer and Django Back-end Developer
+- 🌀 Python programmer 
 - 🌀 Penetration Testing and Security of Web Applications (OWASP / WSTG)
 
 </br>
